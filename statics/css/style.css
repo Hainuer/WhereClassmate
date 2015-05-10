@@ -1,0 +1,57 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.header {
+    height: 100px;
+}
+.logo {
+    height: 50px;
+}
+.navibar {
+    height: 50px;
+    background-color: darkslateblue;
+}
+
+.content {
+    margin: 25px auto;
+}
+#label {
+    width: 400px;
+    height: 25px;
+    line-height: 25px;
+    margin: 10px auto;
+}
+#label span {
+    height: 25px;
+    width: 50px;
+    display: block;
+    float: left;
+    text-align: center;
+}
+#map {
+    width: 600px;
+    margin: 10px auto;
+}
+
+#detail {
+    background-color: darkslateblue;
+    padding: 10px 25px;
+}
+#detail p {
+    text-align: center;
+    color: #eee;
+}
+#detail p span {
+    color: #00a2e9;
+}
